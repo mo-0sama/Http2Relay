@@ -61,14 +61,11 @@ namespace HTTP2Relay
                 response.Headers[header.Key] = header.Value.ToArray();
             }
 
-            // SendAsync removes chunking from the response. This removes the header so it doesn't expect a chunked response.
             response.Headers.Remove("transfer-encoding");
             var content = await responseMessage.Content.ReadAsStringAsync();
-            //response.Body = new MemoryStream(Encoding.UTF8.GetBytes(content));
-            //response.Body = new StringContent(await responseMessage.Content.ReadAsStringAsync());
             using (var responseStream = await responseMessage.Content.ReadAsStreamAsync())
             {
-                await responseStream.CopyToAsync(response.Body, 1024, context.RequestAborted);
+                await responseStream.CopyToAsync(response.Body, context.RequestAborted);
             }
         }
     }

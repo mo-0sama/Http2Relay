@@ -15,7 +15,6 @@ namespace HTTP2Relay
         private readonly RequestDelegate _next;
         private readonly ILogger<HTTP2RelayMiddleware> _logger;
         private readonly IHttpClientFactory _httpClientFactory;
-        //static readonly HttpClient _client=new HttpClient();
         public HTTP2RelayMiddleware(RequestDelegate next, ILogger<HTTP2RelayMiddleware> logger, IHttpClientFactory httpClientFactory)
         {
             _next = next;

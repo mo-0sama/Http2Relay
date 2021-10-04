@@ -23,38 +23,9 @@ namespace HTTP2Relay
         }
 
         public IConfiguration Configuration { get; }
-        //private static byte[] StringToByteArray(string hex)
-        //{
-        //    int NumberChars = hex.Length;
-        //    byte[] bytes = new byte[NumberChars / 2];
-
-        //    for (int i = 0; i < NumberChars; i += 2)
-        //    {
-        //        bytes[i / 2] = Convert.ToByte(hex.Substring(i, 2), 16);
-        //    }
-
-        //    return bytes;
-        //}
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddHttpClient();
-            //services.AddCertificateForwarding(options =>
-            //{
-            //    options.CertificateHeader = "X-SSL-CERT";
-            //    options.HeaderConverter = (headerValue) =>
-            //    {
-            //        X509Certificate2 clientCertificate = null;
-
-            //        if (!string.IsNullOrWhiteSpace(headerValue))
-            //        {
-            //            byte[] bytes = StringToByteArray(headerValue);
-            //            clientCertificate = new X509Certificate2(bytes);
-            //        }
-
-            //        return clientCertificate;
-            //    };
-            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -64,7 +35,6 @@ namespace HTTP2Relay
             {
                 app.UseDeveloperExceptionPage();
             }
-            //app.UseCertificateForwarding();
             app.UseSerilogRequestLogging();
             app.UseHTTP2RelayMiddleware();
         }
