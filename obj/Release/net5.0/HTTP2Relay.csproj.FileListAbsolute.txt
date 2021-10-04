@@ -1,0 +1,114 @@
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\appsettings.json
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.exe
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.deps.json
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.runtimeconfig.json
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.runtimeconfig.dev.json
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\ref\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.pdb
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\AspNetCore.Proxy.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.AspNetCore.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.Console.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.File.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.AssemblyReference.cache
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.AssemblyInfoInputs.cache
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.AssemblyInfo.cs
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.CoreCompileInputs.cache
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\staticwebassets\HTTP2Relay.StaticWebAssets.Manifest.cache
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\staticwebassets\HTTP2Relay.StaticWebAssets.xml
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\scopedcss\bundle\HTTP2Relay.styles.css
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.RazorTargetAssemblyInfo.cache
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.CopyComplete
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\ref\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.pdb
+C:\Users\ebseg\Desktop\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.genruntimeconfig.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\appsettings.json
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.exe
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.deps.json
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.runtimeconfig.json
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.runtimeconfig.dev.json
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\ref\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.pdb
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\AspNetCore.Proxy.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.AspNetCore.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.Console.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.File.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.AssemblyReference.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.AssemblyInfoInputs.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.AssemblyInfo.cs
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.CoreCompileInputs.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\staticwebassets\HTTP2Relay.StaticWebAssets.Manifest.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\staticwebassets\HTTP2Relay.StaticWebAssets.xml
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\scopedcss\bundle\HTTP2Relay.styles.css
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.RazorTargetAssemblyInfo.cache
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.CopyComplete
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\ref\HTTP2Relay.dll
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.pdb
+C:\Users\ebseg\Desktop\Code\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.genruntimeconfig.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\appsettings.Development.json
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\appsettings.json
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.exe
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.deps.json
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.runtimeconfig.json
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.runtimeconfig.dev.json
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\ref\HTTP2Relay.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\HTTP2Relay.pdb
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\AspNetCore.Proxy.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.AspNetCore.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Extensions.Hosting.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Extensions.Logging.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Formatting.Compact.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Settings.Configuration.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.Console.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.Debug.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\bin\Release\net5.0\Serilog.Sinks.File.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.AssemblyReference.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.GeneratedMSBuildEditorConfig.editorconfig
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.AssemblyInfoInputs.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.AssemblyInfo.cs
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.CoreCompileInputs.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.MvcApplicationPartsAssemblyInfo.cs
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.MvcApplicationPartsAssemblyInfo.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\staticwebassets\HTTP2Relay.StaticWebAssets.Manifest.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\staticwebassets\HTTP2Relay.StaticWebAssets.xml
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\scopedcss\bundle\HTTP2Relay.styles.css
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.RazorTargetAssemblyInfo.cache
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.csproj.CopyComplete
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\ref\HTTP2Relay.dll
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.pdb
+C:\TFS\R and D Work\HTTP2Relay\HTTP2Relay\obj\Release\net5.0\HTTP2Relay.genruntimeconfig.cache
